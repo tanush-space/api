@@ -1,1 +1,1 @@
-# @learning-full-stack
+# @wastezero-full-stack
